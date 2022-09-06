@@ -1,1 +1,1 @@
-# klasifikasi-gambar-bunga menggunakan CNN dan Transfer Learning Resnet 18 & Resnet 50
+# Deep Learning Project : Flowers Classification With CNN And Transfer Learning Using Residual Network
